@@ -38,8 +38,6 @@
 - `npm run lint:js:fix` — исправление ошибок линтнера js
 - `npm run stylelint:css` — запуск проверки линтнера css
 - `npm run stylelint:css` — исправление ошибок линтнера css
-- `npm run predeploy` — сборка проекта перед деплоем
-- `npm run deploy` — деплой проекта на GH-pages
 
 ---
 
@@ -64,5 +62,5 @@
 
 ### Ссылки на проект
 
-- Адрес репозитория: 
+- Адрес репозитория: https://github.com/atvk/Four_Horses_Club
 - Деплой 
