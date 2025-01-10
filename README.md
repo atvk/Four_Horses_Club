@@ -63,4 +63,4 @@
 ### Ссылки на проект
 
 - Адрес репозитория: https://github.com/atvk/Four_Horses_Club
-- Деплой 
+- Деплой https://four-horses-club-cqta2t8gn-atvks-projects-f169d49e.vercel.app/
